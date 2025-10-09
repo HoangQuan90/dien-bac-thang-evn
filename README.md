@@ -18,6 +18,23 @@ https://github.com/tongtbgl/dien-bac-thang-evn
 Kiểu là bảng điều khiển -> bấm thêm
 Sau khi thêm tìm kiếm "Điện Bậc Thang EVN" để tải về
 
+## Tạo file evn.json chứa giá điện
+
+Tiếp theo hãy dùng Addon File Editor truy cập vào đường dẫn 
+/homeassistant/www/community/dien-bac-thang-evn/
+ở đây bạn tạo 1 file mới tên là evn.json chứa giá điện theo bậc có nội dung như sau
+```yaml
+{
+  "so_bac": 6,
+  "b1": { "gia": 1984, "kw": 50 },
+  "b2": { "gia": 2050, "kw": 50 },
+  "b3": { "gia": 2380, "kw": 100 },
+  "b4": { "gia": 2998, "kw": 100 },
+  "b5": { "gia": 3350, "kw": 100 },
+  "b6": { "gia": 3460 }
+}
+```
+
 ## Code mẫu
 ```yaml
 type: custom:dien-bac-thang-remote-card
@@ -31,3 +48,4 @@ mode: 2
 # Ủng hộ tôi để có thêm động lực phát triển:
 https://bachtran.net/donate/
 Cảm ơn các bạn
+
