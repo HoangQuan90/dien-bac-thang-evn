@@ -1,7 +1,7 @@
 {
   "name": "Điện Bậc Thang EVN",
   "content_in_root": false,
-  "filename": "dien-bac-thang-remote.js",
+  "filename": "dien-bac-thang-remote-card.js",
   "domains": ["lovelace"],
   "country": "VN",
   "homeassistant": "2024.8",
