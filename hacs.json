@@ -4,6 +4,6 @@
   "filename": "dien-bac-thang-remote.js",
   "domains": ["lovelace"],
   "country": "VN",
-  "homeassistant": "2022.0.0",
+  "homeassistant": "2024.8",
   "render_readme": true
 }
