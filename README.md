@@ -13,7 +13,7 @@ Giá điện được quy định theo bậc tại file evn.json
 
 VÀO HACS trên Home assistant -> Thêm kho lưu trữ tùy chỉnh 
 ```yaml
-https://github.com/tongtbgl/dien-bac-thang-evn
+https://github.com/HoangQuan90/dien-bac-thang-evn
 ```
 Kiểu là bảng điều khiển -> bấm thêm
 Sau khi thêm tìm kiếm "Điện Bậc Thang EVN" để tải về
