@@ -46,6 +46,5 @@ mode: 2
 
 ```
 # Ủng hộ tôi để có thêm động lực phát triển:
-https://bachtran.net/donate/
 Cảm ơn các bạn
 
